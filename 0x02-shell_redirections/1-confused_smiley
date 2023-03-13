@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd /1-confused_smiley
+echo "\"(Ôo)'"
