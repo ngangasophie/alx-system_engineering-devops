@@ -1,1 +1,1 @@
-system devops
+alias project
